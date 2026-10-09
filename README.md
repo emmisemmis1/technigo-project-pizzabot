@@ -1,10 +1,18 @@
 # Pizzabot
 
-Replace this readme with your own information about the project. You can include things like:
+This project is a simple JavaScript-based pizzeria chatbot. The user is greeted, asked for their name, selects a type of food and a subtype, chooses whether the meal is for a child or an adult, and finally confirms the order.
 
-- Brief description of the assignment
-- How you approached the task, what tools and techniques you used, and how you planned it
-- If you had more time, what would be next?
+## How I approached the task
+I built the project step by step following the assignment instructions. I used JavaScript concepts such as:
+
+- Variables (const and let)
+- alert() and prompt()
+- Conditional statements (if / else if)
+
+To understand the code better, I tested each step individually before moving on to the next feature. I also used browser developer tools and the console to troubleshoot errors and debug my code.
+
+## If I had more time
+If I had more time, I would like to add better validation for incorrect user input.
 
 ## View it live
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+https://technigo-pizzabot-project.pages.dev/
