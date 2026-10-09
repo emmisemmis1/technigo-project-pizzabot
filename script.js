@@ -7,11 +7,8 @@ alert(
   `Welcome to our Javascript Pizzeria. Ready to Start? - Click 'OK' to begin.`
 )
 
-let name = prompt("Please enter your name", "Name");
-console.log(`Welcome ${name}!`);
-
-let name = alert("Hi and welcome", "Name";)
-console.log(`Hi and welcome, ${name}!`);
+const customerName = prompt("Hi and welcome", "Name") || "friend";
+alert(`Hi and welcome, ${customerName}!`);
 
 // Step 2 - Food choice
 // Your code goes here
